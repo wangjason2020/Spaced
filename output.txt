@@ -1,0 +1,2 @@
+The longest distance between drones is 13.601470508735444
+The shortest distance between drones is 9.9498743710662
